@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "recipeId" : "ea15bf3687641110ba5b76e4dabb3517"
+}</macroponent_config>
+        <screen display_value="Recipe default">4f177fb687641110ba5b76e4dabb35c5</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-11 19:29:04</sys_created_on>
+        <sys_id>6e3733f687641110ba5b76e4dabb354b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_6e3733f687641110ba5b76e4dabb354b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-11 19:39:03</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
